@@ -1,2 +1,2 @@
 # Golang101
-Try to From Golang
+Try to Learn from Golang
